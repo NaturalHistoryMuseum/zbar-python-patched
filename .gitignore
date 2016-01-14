@@ -1,0 +1,4 @@
+dist
+build
+*dll
+zbar.egg-info
